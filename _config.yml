@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Banchien
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://jukhri.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Jukhri Syahputra Bancin
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "My Self Description."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
+  twitter: Jukhri #username
   facebook: deactivate.py #username
   google:
-    plus: kampar #username
+    plus: Bancin #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: Banchien #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
