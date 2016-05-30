@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
+title: "Jurusan Sistem Informasi"
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Ini adalah halaman website jurusan sistem informasi. silahkan dibuka di http://sif.uin-suska.ac.id/ dan untuk UIN SUSKA RIAU silahkan dibuka link ini http://uin-suska.ac.id/ "
 tags: []
 ---
 
